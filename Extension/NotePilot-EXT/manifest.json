@@ -1,0 +1,30 @@
+{
+    "manifest_version": 3,
+    "name": "Note Pilot",
+    "version": "1.0",
+    "description": "AI powered simple note-taking extension for quick access to your notes.",
+    "permissions": [
+        "activeTab",
+        "storage",
+        "sidePanel",
+        "scripting"
+    ],
+    "action": {
+        "default_title": "Note Pilot"
+    },
+    "side_panel": {
+        
+        "default_path": "sidepanel.html"
+    },
+    "background": {
+        "service_worker": "background.js"
+    },
+    "host_permissions": [
+        "https://localhost:8080/*",
+        "<all_urls>"
+    ],
+    "content_security_policy": {
+        "extension_pages": "script-src 'self'; object-src 'self';"
+    }
+        
+}

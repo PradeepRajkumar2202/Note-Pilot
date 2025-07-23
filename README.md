@@ -1,9 +1,9 @@
 <div align="center">
 
-<h1>Mail Mind - AI</h1>
+<h1>Note Pilot</h1>
 </div>
-MailMind AI is a Chrome extension that helps users generate smart auto-replies for emails. It uses Spring Boot for the backend, Gemini API for AI-generated responses, and a React-based frontend packaged as a Chrome extension for seamless Gmail integration.
-
+Developed a Chrome extension that leverages Google's Gemini API to generate concise summaries of web articles. Enables users to extract, highlight, and save key points locally for quick reference.
+Tech Stack: Spring Boot (Backend), HTML/CSS/JavaScript (Frontend), Chrome Extension APIs, Gemini API.
 
 ## 🎥 Demo
 

@@ -12,11 +12,10 @@ Tech Stack: Spring Boot (Backend), HTML/CSS/JavaScript (Frontend), Chrome Extens
 
 ## 📸 Screenshots
 
-<img src="./Extension/NotePilot-EXT/assets/Screenshot(18).png" width="800"/>
-<img src="./Extension/MailMind-AI-EXT/assets/Screenshot (16).png" width="800"/>
-<img src="./Extension/MailMind-AI-EXT/assets/Screenshot (9).png" width="800"/>
-<img src="./Extension/MailMind-AI-EXT/assets/Screenshot (10).png" width="800"/>
-<img src="./Extension/MailMind-AI-EXT/assets/Screenshot (11).png" width="800"/>
-<img src="./Extension/MailMind-AI-EXT/assets/Screenshot (12).png" width="800"/>
-<img src="./Extension/MailMind-AI-EXT/assets/Screenshot (13).png" width="800"/>
-<img src="./Extension/MailMind-AI-EXT/assets/Screenshot (14).png" width="800"/>
+<img src="./Extension/NotePilot-EXT/assets/Screenshot (18).png" width="800"/>
+<img src="./Extension/NotePilot-EXT/assets/Screenshot (20).png" width="800"/>
+<img src="./Extension/NotePilot-EXT/assets/Screenshot (22).png" width="800"/>
+<img src="./Extension/NotePilot-EXT/assets/Screenshot (23).png" width="800"/>
+<img src="./Extension/NotePilot-EXT/assets/Screenshot (24).png" width="800"/>
+<img src="./Extension/NotePilot-EXT/assets/extension-pinning.png" width="800"/>
+<img src="./Extension/NotePilot-EXT/assets/extensions-block.png" width="800"/>
